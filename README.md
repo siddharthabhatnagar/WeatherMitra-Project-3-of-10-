@@ -46,3 +46,32 @@ Android Developer | Kotlin Enthusiast
 
 ---
 
+🧠 Concepts Learned
+
+Making REST API calls using Retrofit
+
+Parsing JSON responses from a remote server
+
+Handling loading, success, and error UI states
+
+State management using StateFlow and collectAsState
+
+Clean separation of concerns using MVVM architecture
+
+Dependency Injection with Hilt
+
+Displaying network images using Coil
+
+🚀 Android Project Roadmap (3 of 10)
+#	Project Name	Level
+✅ 1	Tip Split App	Beginner
+✅ 2	Expense Tracker App	Beginner
+✅ 3	Weather App	Beginner
+⏳ 4	News App (Pagination)	Intermediate
+⏳ 5	Authentication App (Firebase)	Intermediate
+⏳ 6	Contacts App	Intermediate
+⏳ 7	Real-Time Chat App	Advanced
+⏳ 8	E-Commerce App	Advanced
+⏳ 9	Social Media App	Advanced
+⏳ 10	AI-Powered Android App	Advanced
+
